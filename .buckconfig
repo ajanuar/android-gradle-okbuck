@@ -1,0 +1,4 @@
+<file:.okbuck/config/okbuck.buckconfig>
+
+[android]
+  sdk_path = /Users/albertjanuar/Library/Android/sdk
